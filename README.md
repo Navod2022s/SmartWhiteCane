@@ -56,7 +56,7 @@ AUDIO PINS (I2S Output):
 - Implements threshold-based filtering (0.85 confidence threshold)
 - Requires 3 consecutive frames above threshold to trigger detection
 - 3-second cooldown period to prevent false positives
-
+- 
 ### 2. **Distance-Based Haptic Feedback**
 - **SAFE ZONE** (150+ cm): No vibration
 - **AWARE ZONE** (80-150 cm): Vibration every 1 second
@@ -191,7 +191,11 @@ This is an assistive technology project aimed at improving accessibility. Contri
 
 ## 📄 License
 
-This project is open source. See repository details for license information.
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file for details.
+
+A NOTICE file with third-party attributions is included in this repository — see the [NOTICE](NOTICE) file for details.
 
 ## 👤 Author
 
