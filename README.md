@@ -197,9 +197,12 @@ This project is licensed under the Apache License, Version 2.0. See the [LICENSE
 
 A NOTICE file with third-party attributions is included in this repository — see the [NOTICE](NOTICE) file for details.
 
-## 👤 Author
+## 👤 Authors
 
-**Navod2022s**
+- Navod2022s (Project lead)
+- Member Name 1 — @githubHandle1
+- Member Name 2 — @githubHandle2
+- Member Name 3 — @githubHandle3
 
 ---
 
