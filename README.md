@@ -199,8 +199,8 @@ A NOTICE file with third-party attributions is included in this repository — s
 
 ## 👤 Authors
 
-- Navod2022s (Project lead)
-- Member Name 1 — @githubHandle1
+- Navod2022s 
+- Sanjulauni
 - Member Name 2 — @githubHandle2
 - Member Name 3 — @githubHandle3
 
