@@ -199,10 +199,10 @@ A NOTICE file with third-party attributions is included in this repository — s
 
 ## 👤 Authors
 
-- Navod2022s 
-- Sanjulauni
-- Member Name 2 — @githubHandle2
-- Member Name 3 — @githubHandle3
+- Chavindu -> @Navod2022s 
+- Sanjula -> @Sanjulauni
+- Samodhini -> @Samo1318
+- Salinda Perera
 
 ---
 
